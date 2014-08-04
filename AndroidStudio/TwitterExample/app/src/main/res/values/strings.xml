@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TwitterExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="consumer_key">Ic3r7SZxPvLIOC7r6UyP0AFkj</string>
+    <string name="consumer_secret">tlwhYP4yBJjexUngJjInelOgRfancTX6QpwHd7weY7Q22ZDFNb</string>
+    <string name="access_token">2551973150-FAWwu3XwhwZtnXPkd2MuNTsoS0fJvd31Wn5Kedt</string>
+    <string name="access_token_secret">aSurQnFcb3DUSbVI8bEFXButLaXqB3RUCu83bcQiRmW8K</string>
+    <string name="enter_tweet_hashtag">Twitter hashtag</string>
+    <string name="submit">Submit</string>
+</resources>
